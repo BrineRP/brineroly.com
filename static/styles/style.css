@@ -1,0 +1,88 @@
+.b1 {
+    padding: 21px 67px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(240, 248, 255, 0.57);
+    cursor: pointer;
+    color: #555555;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+body {
+    background: #8dfdff;
+}
+
+h1 {
+    font-size: 75px;
+    padding: 0px 75px;
+    color: #45a6f6;
+    font-style: italic;
+    justify-content: center;
+    display: flex;
+}
+
+.b2 {
+    padding: 15px 15px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    background-color:  rgba(240, 248, 255, 0.57);
+    cursor: pointer;
+    color: #555555;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.b3 {
+    padding: 9px 10px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    background-color:  rgba(240, 248, 255, 0.57);
+    cursor: pointer;
+    color: #555555;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.b4 {
+    padding: 15px 15px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    background-color:  rgba(240, 248, 255, 0.57);
+    cursor: pointer;
+    color: #555555;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    padding: 5px 75px;
+    color: #1b95f9;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.p1{
+    padding: 10px 85px;
+    font-size: 31px;
+    color: blue;
+    font-style: italic;
+}
+
+h3 {
+    padding: 20px 40px;
+    font-size: 40px;
+    justify-content: center;
+    display: flex;
+    color: blue;
+}
+
+.p2 {
+    color: blue;
+    padding: 10px 15px;
+    font-size: 30px;
+}
